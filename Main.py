@@ -15,7 +15,6 @@ while i <= n:
             j = j + i
     i += 1
 
-
 a = set(a)
 a.remove(0)
 print(a)
